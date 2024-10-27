@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: nlp-text-summary-generator
+Version: 0.0.0
+Summary: A python package for Text Summarization
+Home-page: https://github.com/itadityaa/TextSummarization
+Author: itadityaa
+Author-email: it.adityaa@gmail.com
+Project-URL: Bug Tracker, https://github.com/itadityaa/TextSummarization/issues
+License-File: LICENSE
+
+Initial Commit
