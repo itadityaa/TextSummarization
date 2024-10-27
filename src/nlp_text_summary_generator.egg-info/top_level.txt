@@ -1,1 +1,1 @@
-nlp-text-summary-generator
+nlp_text_summary_generator
