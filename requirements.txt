@@ -42,6 +42,7 @@ fonttools==4.54.1
 fqdn==1.5.1
 frozenlist @ file:///C:/b/abs_d8e__s1ys3/croot/frozenlist_1698702612014/work
 fsspec @ file:///C:/b/abs_d5jzmndkba/croot/fsspec_1714461594761/work
+gmpy2 @ file:///C:/ci/gmpy2_1645456279018/work
 h11==0.14.0
 httpcore==1.0.6
 httpx==0.27.2
@@ -54,7 +55,7 @@ ipykernel==6.29.5
 ipython==8.12.3
 isoduration==20.11.0
 jedi==0.19.1
-Jinja2==3.1.4
+Jinja2 @ file:///C:/b/abs_92fccttino/croot/jinja2_1716993447201/work
 jmespath==1.0.1
 joblib==1.4.2
 json5==0.9.25
@@ -72,13 +73,14 @@ jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 kiwisolver==1.4.7
 lxml==5.3.0
-MarkupSafe==2.1.5
+MarkupSafe @ file:///C:/b/abs_ecfdqh67b_/croot/markupsafe_1704206030535/work
 matplotlib==3.7.5
 matplotlib-inline==0.1.7
 mistune==3.0.2
 mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
 mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
 mkl-service==2.4.0
+mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
 multidict @ file:///C:/b/abs_44ido987fv/croot/multidict_1701097803486/work
 multiprocess @ file:///C:/b/abs_43lxksn2oj/croot/multiprocess_1692295065414/work
 multivolumefile==0.2.3
@@ -87,7 +89,8 @@ nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
 nest-asyncio==1.6.0
--e git+https://github.com/itadityaa/TextSummarization.git@93ce27a896dc61a50b4493c82bfd67a67d0aed0f#egg=nlp_text_summary_generator
+networkx @ file:///C:/b/abs_e6gi1go5op/croot/networkx_1690562046966/work
+-e git+https://github.com/itadityaa/TextSummarization.git@c13b798d67f455f7c9f853f6fad76c2d1fb2a1c0#egg=nlp_text_summary_generator
 nltk==3.9.1
 notebook==7.2.2
 notebook_shim==0.2.4
@@ -99,7 +102,7 @@ pandas @ file:///C:/miniconda3/conda-bld/pandas_1692299636855/work
 pandocfilters==1.5.1
 parso==0.8.4
 pickleshare==0.7.5
-pillow==10.4.0
+pillow @ file:///C:/b/abs_32o8er3uqp/croot/pillow_1721059447598/work
 pkgutil_resolve_name==1.3.10
 platformdirs==4.3.6
 portalocker==2.10.1
@@ -145,12 +148,15 @@ sniffio==1.3.1
 soupsieve==2.6
 stack-data==0.6.3
 starlette==0.41.2
+sympy @ file:///C:/b/abs_4e4p71hdj_/croot/sympy_1724938208509/work
 tabulate==0.9.0
 terminado==0.18.1
 texttable==1.7.0
 tinycss2==1.4.0
 tokenizers @ file:///C:/b/abs_dbyirlxdi3/croot/tokenizers_1729696708579/work
 tomli==2.0.2
+torch @ file:///C:/b/abs_e1nmgx0bk6/croot/pytorch-select_1725478824526/work
+torchvision @ file:///C:/b/abs_36wv6_sd88/croot/torchvision_1722956313919/work
 tornado==6.4.1
 tqdm @ file:///C:/b/abs_77wju137gk/croot/tqdm_1724853945787/work
 traitlets==5.14.3
@@ -169,4 +175,3 @@ win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
 xxhash @ file:///C:/b/abs_e59ry5bslh/croot/python-xxhash_1667919514787/work
 yarl @ file:///C:/b/abs_00rcuicx5k/croot/yarl_1726015884215/work
 zipp==3.20.2
--e .
